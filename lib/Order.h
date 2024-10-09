@@ -3,7 +3,6 @@
 #include <list>
 #include <exception>
 #include <format>
-//#include <fmt/core.h>
 #include "OrderType.h"
 #include "Side.h"
 #include "Usings.h"
